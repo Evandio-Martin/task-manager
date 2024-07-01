@@ -37,16 +37,19 @@ This is a simple Task Manager application built using React and Vite. It allows 
 ```bash
 git clone https://github.com/your-username/task-manager.git
 cd task-manager
+```
 
 2. **Install Dependencies**:
 
 ```bash
 npm install
+```
 
 3. **Run the Development Server**:
 
 ```bash
 npm run dev
+```
 
 4. **Open the Application**:
 
@@ -58,3 +61,4 @@ To build the project for production, run:
 
 ```bash
 npm run build
+```

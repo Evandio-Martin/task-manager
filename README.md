@@ -34,24 +34,32 @@ This is a simple Task Manager application built using React and Vite. It allows 
 
 1. **Clone the Repository**:
 
-   ```bash
-   git clone https://github.com/your-username/task-manager.git
-   cd task-manager
+git clone https://github.com/your-username/task-manager.git
+cd task-manager
 
-###Install Dependencies:
+markdown
+Copy code
 
-###Using npm:
+2. **Install Dependencies**:
+
 npm install
 
-###Run the Development Server:
-###Using npm:
+markdown
+Copy code
+
+3. **Run the Development Server**:
+
 npm run dev
 
-###Open the Application:
-Open your web browser and navigate to http://localhost:3000. You should see the Task Manager application running.
+less
+Copy code
 
-###Deployment
+4. **Open the Application**:
+
+Open your web browser and navigate to [http://localhost:3000](http://localhost:3000). You should see the Task Manager application running.
+
+### Deployment
+
 To build the project for production, run:
 
-###Using npm:
 npm run build

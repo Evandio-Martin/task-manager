@@ -9,7 +9,7 @@ Currently, two official plugins are available:
 
 # Task Manager Application
 
-This is a simple Task Manager application built using React and Vite. It allows users to manage their tasks by adding, editing, deleting, and filtering tasks. The application also saves tasks to local storage, ensuring that tasks persist across page reloads.
+This is a simple Task Manager application built using React and Vite.
 
 ## Setup Instructions
 
